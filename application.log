@@ -1,0 +1,7 @@
+2016-04-13 06:06:29 DEBUG Main:14 - This is debug: Could not find user in cockpit
+2016-04-13 06:06:29 INFO  Main:18 - This is info: Could not find user in cockpit
+2016-04-13 06:06:29 WARN  Main:21 - This is warn: Could not find user in cockpit
+2016-04-13 06:06:29 ERROR Main:22 - This is error: Could not find user in cockpit
+2016-04-13 06:06:29 FATAL Main:23 - This is fatal: Could not find user in cockpit
+2016-04-13 06:11:25 ERROR Main:22 - This is error: Could not find user in cockpit
+2016-04-13 06:11:25 FATAL Main:23 - This is fatal: Could not find user in cockpit
